@@ -25,7 +25,6 @@ function priceDiscounted(price, percentageDiscount) {
 // Submit event
 
 submitEl.addEventListener('click', function() {
-
     // Get value from input
     const yourKm = yourKmEl.value;
     const yourAge = yourAgeEl.value;
